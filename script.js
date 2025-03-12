@@ -101,4 +101,4 @@ function distanceToMouse(x, y) {
 
 function distanceToSize(distance) {
     return int(map(distance, 0, circleSize, 50, 18));
-} 
+}
